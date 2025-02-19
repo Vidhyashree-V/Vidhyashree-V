@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vidhyashree</h1>
-<h3 align="center">🚀 Passionate Generative AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Vidhyashree V</h1>
+<h3 align="center">🚀 Passionate GenAI Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
