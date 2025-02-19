@@ -14,9 +14,9 @@
 
 ### 🛠️ Tech Stack & Tools  
 
-💡 AI & ML: BERT, Llama, Transformers, NLP, Data analysis, Predictive Modelling
-🛠 Languages: Python, SQL
-📊 Frameworks & Libraries: Paddle-OCR, Hugging Face, imlearn, Scrapy, Sklearn, Numpy, Pandas
+-💡 AI & ML: BERT, Llama, Transformers, NLP, Data analysis, Predictive Modelling
+-🛠 Languages: Python, SQL
+-📊 Frameworks & Libraries: Paddle-OCR, Hugging Face, imlearn, Scrapy, Sklearn, Numpy, Pandas
 ---
 
 💬 Let's connect and innovate together! 🚀  
