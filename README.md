@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **NLP & Generative AI projects**, solving real-world problems with cutting-edge AI.  
 - 🤝 Open to collaborating on **end-to-end GenAI projects**—let’s build something amazing!  
-- 🌱 Continuously learning and exploring **Generative AI**, staying updated with the latest advancements.  
+- 🌱 Continuously learning and exploring **Generative AI**.  
 - 📫 Reach me at **vidhyashreev11@gmail.com**
 - 💬 Let's connect and innovate together! 🚀
 
