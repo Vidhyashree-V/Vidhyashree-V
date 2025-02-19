@@ -11,8 +11,6 @@
 - 📫 Reach me at **vidhyashreev11@gmail.com**
 - 💬 Let's connect and innovate together! 🚀
 
----
-
 <p align="left">
 </p>
 
