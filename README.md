@@ -1,18 +1,25 @@
 <h1 align="center">Hi 👋, I'm Vidhyashree</h1>
-<h3 align="center">Passionate Data Analyst</h3>
+<h3 align="center">🚀 Passionate Generative AI Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<h2 align="left">👩About</h2>
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 Currently working on **NLP & Generative AI projects**, solving real-world problems with cutting-edge AI.  
+- 🤝 Open to collaborating on **end-to-end GenAI projects**—let’s build something amazing!  
+- 🌱 Continuously learning and exploring **Generative AI**, staying updated with the latest advancements.  
+- 📫 Reach me at **vidhyashreev11@gmail.com**  
 
-- 👯 I’m looking to collaborate on **Risk Analytics projects**
+---
 
-- 🌱 I’m currently learning **Predictive Analysis**
+### 🛠️ Tech Stack & Tools  
 
-- 📫 How to reach me **vidhyashreev11@gmail.com**
+💡 **AI & ML:** BERT, Llama, Transformers, NLP, Data analysis, Predictive Modelling
+🛠 **Languages:** Python, SQL
+📊 **Frameworks & Libraries:** Paddle-OCR, Hugging Face, imlearn, Scrapy, Sklearn, Numpy, Pandas
+---
 
+💬 Let's connect and innovate together! 🚀  
 <p align="left">
 </p>
 
