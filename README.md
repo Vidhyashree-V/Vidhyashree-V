@@ -58,7 +58,7 @@
     </a>
     <!-- Scrapy -->
     <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-        <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="70" height="40"/>
+        <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="80" height="40"/>
     </a>
 </p>
 
