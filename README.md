@@ -40,22 +40,6 @@
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
     </a>
-    <!-- Dify -->
-    <a href="https://dify.ai/" target="_blank" rel="noreferrer">
-        <img src="https://dify.ai/logo.svg" alt="Dify" width="40" height="40"/>
-    </a>
-    <!-- NLP (Representing with an NLP-related icon) -->
-    <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Artificial_Intelligence_NLP.svg" alt="NLP" width="40" height="40"/>
-    </a>
-    <!-- imbalanced-learn -->
-    <a href="https://imbalanced-learn.org/stable/" target="_blank" rel="noreferrer">
-        <img src="https://imbalanced-learn.org/stable/_static/logo_wide.svg" alt="Imbalanced-Learn" width="40" height="40"/>
-    </a> 
-    <!-- PaddleOCR -->
-    <a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/PaddlePaddle/PaddleOCR/main/docs/imgs/PaddleOCR_logo.jpg" alt="PaddleOCR" width="40" height="40"/>
-    </a>
     <!-- Scrapy -->
     <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
         <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/>
