@@ -15,7 +15,7 @@
 <p align="left">
 </p>
 
-<h2 align="left">🐱‍🏍 Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
