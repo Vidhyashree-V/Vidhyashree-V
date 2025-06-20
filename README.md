@@ -16,7 +16,6 @@
 **[![Email](https://img.shields.io/badge/Email-blue?&logoWidth=70)](mailto:vidhyashreev11gmail.com)**   **[![LinkedIn](https://img.shields.io/badge/LinkedIn-green?&logoWidth=70)](https://www.linkedin.com/in/vidhyashree-v-3039471b8)**
 <p align="left">
 </p>
-
 <br><br> 
 
 <h2 align="left">Skills:</h2>
