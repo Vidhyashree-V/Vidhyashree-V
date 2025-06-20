@@ -21,7 +21,7 @@
     🐍 Python | 🛠️ Feature Engineering | 📊 Data Analysis | 🤖 Machine Learning | 🧠 Deep learning | 📝 Natural Language Processing | 👁️ Computer vision | 📚 Large Language Models | 🌐 Flask | 🕸️ Web Scraping | 💾 SQL | ☁️ AWS | 💡 Generative AI 
 </p>
 
-
+<br><br> 
 
 <h2 align="left">"The only thing more powerful than AI? A human asking the right question." 🤔🚀✨</h2>
 <img align="left" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
