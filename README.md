@@ -15,36 +15,9 @@
 <p align="left">
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Skills:</h2>
 <p align="left">
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <!-- Pandas -->
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    </a>
-    <!-- Python -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <!-- Scikit-Learn -->
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-    </a>
-    <!-- Seaborn -->
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-    </a> 
-    <!-- Hugging Face -->
-    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-    </a>
-    <!-- Scrapy -->
-    <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
-        <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="100" height="40"/>
-    </a>
+    🐍 Python | 🛠️ Feature Engineering | 📊 Data Analysis | 🤖 Machine Learning | 🧠 Deep learning | 📝 Natural Language Processing | 👁️ Computer vision | 📚 Large Language Models | 🌐 Flask | 🕸️ Web Scraping | 💾 SQL | ☁️ AWS | 💡 Generative AI 
 </p>
 
 <h2 align="left">"The only thing more powerful than AI? A human asking the right question." 🤔🚀✨</h2>
