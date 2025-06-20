@@ -15,6 +15,8 @@
 <p align="left">
 </p>
 
+<br><br> 
+
 <h2 align="left">Skills:</h2>
 
 <p align="left">
