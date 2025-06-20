@@ -11,7 +11,7 @@
 - 📫 Reach me at **vidhyashreev11@gmail.com**
 - 📝 I write articles on https://medium.com/@vidhyashree.v
 - 💬 Let's connect and innovate together! 🚀
-
+**[![Email](https://img.shields.io/badge/Email-blue?&logoWidth=70)](mailto:vidhyashreev11gmail.com)**   **[![LinkedIn](https://img.shields.io/badge/LinkedIn-green?&logoWidth=70)](https://www.linkedin.com/in/vidhyashree-v-3039471b8)**
 <p align="left">
 </p>
 
